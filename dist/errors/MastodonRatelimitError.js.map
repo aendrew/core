@@ -1,0 +1,1 @@
+{"version":3,"file":"MastodonRatelimitError.js","sourceRoot":"","sources":["../../src/errors/MastodonRatelimitError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,iDAAgD;AAEhD;IAA4C,0CAAa;IACvD,gCAAa,OAAe;eAC1B,kBAAM,wBAAwB,EAAE,OAAO,CAAC;IAC1C,CAAC;IACH,6BAAC;AAAD,CAAC,AAJD,CAA4C,6BAAa,GAIxD;AAJY,wDAAsB"}

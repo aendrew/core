@@ -1,0 +1,1 @@
+{"version":3,"file":"MastodonUnauthorizedError.js","sourceRoot":"","sources":["../../src/errors/MastodonUnauthorizedError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,iDAAgD;AAEhD;IAA+C,6CAAa;IAC1D,mCAAa,OAAe;eAC1B,kBAAM,2BAA2B,EAAE,OAAO,CAAC;IAC7C,CAAC;IACH,gCAAC;AAAD,CAAC,AAJD,CAA+C,6BAAa,GAI3D;AAJY,8DAAyB"}

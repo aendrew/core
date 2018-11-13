@@ -1,0 +1,1 @@
+{"version":3,"file":"MastodonNotFoundError.js","sourceRoot":"","sources":["../../src/errors/MastodonNotFoundError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,iDAAgD;AAEhD;IAA2C,yCAAa;IACtD,+BAAa,OAAe;eAC1B,kBAAM,uBAAuB,EAAE,OAAO,CAAC;IACzC,CAAC;IACH,4BAAC;AAAD,CAAC,AAJD,CAA2C,6BAAa,GAIvD;AAJY,sDAAqB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"MastodonError.js","sourceRoot":"","sources":["../../src/errors/MastodonError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA;IAAmC,iCAAK;IACtC,uBAAoB,IAAY,EAAS,OAAe;QAAxD,YACE,iBAAO,SACR;QAFmB,UAAI,GAAJ,IAAI,CAAQ;QAAS,aAAO,GAAP,OAAO,CAAQ;;IAExD,CAAC;IACH,oBAAC;AAAD,CAAC,AAJD,CAAmC,KAAK,GAIvC;AAJY,sCAAa"}

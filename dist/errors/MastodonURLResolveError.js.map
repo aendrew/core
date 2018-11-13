@@ -1,0 +1,1 @@
+{"version":3,"file":"MastodonURLResolveError.js","sourceRoot":"","sources":["../../src/errors/MastodonURLResolveError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,iDAAgD;AAEhD;IAA6C,2CAAa;IACxD,iCAAa,OAAe;eAC1B,kBAAM,yBAAyB,EAAE,OAAO,CAAC;IAC3C,CAAC;IACH,8BAAC;AAAD,CAAC,AAJD,CAA6C,6BAAa,GAIzD;AAJY,0DAAuB"}
