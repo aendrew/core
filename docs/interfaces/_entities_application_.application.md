@@ -14,7 +14,7 @@
 
 **● name**: *`string`*
 
-*Defined in [entities/Application.ts:3](https://github.com/aendrew/core/blob/9182182/src/entities/Application.ts#L3)*
+*Defined in [entities/Application.ts:3](https://github.com/aendrew/core/blob/a43c578/src/entities/Application.ts#L3)*
 
 Name of the app
 
@@ -26,7 +26,7 @@ ___
 **● website**: * `string` &#124; `null`
 *
 
-*Defined in [entities/Application.ts:6](https://github.com/aendrew/core/blob/9182182/src/entities/Application.ts#L6)*
+*Defined in [entities/Application.ts:6](https://github.com/aendrew/core/blob/a43c578/src/entities/Application.ts#L6)*
 
 Homepage URL of the app
 

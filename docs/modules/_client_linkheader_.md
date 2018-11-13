@@ -8,7 +8,7 @@
 
 ▸ **getNextUrl**(headers: *`Headers`*):  `string` &#124; `null`
 
-*Defined in [client/linkHeader.ts:3](https://github.com/aendrew/core/blob/9182182/src/client/linkHeader.ts#L3)*
+*Defined in [client/linkHeader.ts:3](https://github.com/aendrew/core/blob/a43c578/src/client/linkHeader.ts#L3)*
 
 **Parameters:**
 

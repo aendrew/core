@@ -17,7 +17,7 @@
 
 ⊕ **new EventHandler**(url: *`string`*, options: *`object`*): [EventHandler](_client_eventhandler_.eventhandler.md)
 
-*Defined in [client/EventHandler.ts:31](https://github.com/aendrew/core/blob/9182182/src/client/EventHandler.ts#L31)*
+*Defined in [client/EventHandler.ts:31](https://github.com/aendrew/core/blob/a43c578/src/client/EventHandler.ts#L31)*
 
 Starting stream with a specified channel
 
@@ -179,7 +179,7 @@ ___
 
 *Overrides EventEmitter.on*
 
-*Defined in [client/EventHandler.ts:73](https://github.com/aendrew/core/blob/9182182/src/client/EventHandler.ts#L73)*
+*Defined in [client/EventHandler.ts:73](https://github.com/aendrew/core/blob/a43c578/src/client/EventHandler.ts#L73)*
 
 **Type parameters:**
 

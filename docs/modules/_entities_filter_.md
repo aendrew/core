@@ -21,7 +21,7 @@
 **Ƭ FilterContext**: * "home" &#124; "notifications" &#124; "public" &#124; "thread"
 *
 
-*Defined in [entities/Filter.ts:22](https://github.com/aendrew/core/blob/9182182/src/entities/Filter.ts#L22)*
+*Defined in [entities/Filter.ts:22](https://github.com/aendrew/core/blob/a43c578/src/entities/Filter.ts#L22)*
 
 Type of filter context
 

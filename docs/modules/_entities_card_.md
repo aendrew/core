@@ -21,7 +21,7 @@
 **Ƭ CardType**: * "link" &#124; "photo" &#124; "video" &#124; "rich"
 *
 
-*Defined in [entities/Card.ts:39](https://github.com/aendrew/core/blob/9182182/src/entities/Card.ts#L39)*
+*Defined in [entities/Card.ts:39](https://github.com/aendrew/core/blob/a43c578/src/entities/Card.ts#L39)*
 
 ___
 

@@ -25,7 +25,7 @@
 **Ƭ AttachmentType**: * "image" &#124; "video" &#124; "gifv" &#124; "unknown"
 *
 
-*Defined in [entities/Attachment.ts:27](https://github.com/aendrew/core/blob/9182182/src/entities/Attachment.ts#L27)*
+*Defined in [entities/Attachment.ts:27](https://github.com/aendrew/core/blob/a43c578/src/entities/Attachment.ts#L27)*
 
 ___
 
