@@ -21,7 +21,7 @@
 **Ƭ NotificationType**: * "mention" &#124; "reblog" &#124; "favourite" &#124; "follow"
 *
 
-*Defined in [entities/Notification.ts:21](https://github.com/lagunehq/core/blob/e57dc9c/src/entities/Notification.ts#L21)*
+*Defined in [entities/Notification.ts:21](https://github.com/aendrew/core/blob/9182182/src/entities/Notification.ts#L21)*
 
 ___
 

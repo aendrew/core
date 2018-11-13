@@ -12,7 +12,7 @@
 
 **● streaming_api**: *`string`*
 
-*Defined in [entities/Instance.ts:36](https://github.com/lagunehq/core/blob/e57dc9c/src/entities/Instance.ts#L36)*
+*Defined in [entities/Instance.ts:36](https://github.com/aendrew/core/blob/9182182/src/entities/Instance.ts#L36)*
 
 ___
 
